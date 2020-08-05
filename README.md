@@ -1,4 +1,4 @@
-### Iza Machado :hang_loose: 
+### Iza Machado ✨
 
 * Graduate degree in Graphic Design at the Estácio University;
 * 5 years of design experience;
