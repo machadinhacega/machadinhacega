@@ -2,12 +2,13 @@
 
 * Graduate degree in Graphic Design at the Estácio University;
 * 5 years of design experience;
-* I'm currently learning UX Design and Python;
+* I'm currently learning Front End Development;
 * I’m looking for help with learning about JavaScript.
+* Other Skills: UX Design and Python;
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/machadinhacega)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/iza-machado-491bb5ba/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/iza.dsgn/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/machadinhacega) •  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/iza-machado-491bb5ba/)   •   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/iza.dsgn/)
 
 <!--
 **machadinhacega/machadinhacega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
