@@ -1,14 +1,20 @@
 ### Iza Machado ✨
 
-* Graduate degree in Graphic Design at the Estácio University;
-* 5 years of design experience;
-* I'm currently learning Front End Development;
-* I’m looking for help with learning about JavaScript.
-* Other Skills: UX Design and Python;
+👋🏽 Fala, tripulação! Meu nome é Iza Machado.
+
+ Estou em transição de carreira para a área da tecnologia e aprendendo programação do zero.
+ Aqui você vai encontrar alguns dos projetos que estou desenvolvendo durante essa jornada.
+ 
+🔭 Trabalho atualmente como designer
+ 
+🌱 Estou aprendendo desenvolvimento Front End
+ 
+ 👩🏽‍💻 Principais tecnologias e linguagens: • JavaScript • HTML • CSS • Bootstrap • Angular • Git
+
+✨ Outras habilidades: UX/UI Design
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/machadinhacega) •  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/iza-machado-491bb5ba/)   •   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/iza.dsgn/)
+[<img src='https://i.pinimg.com/1200x/1f/fa/fe/1ffafe24a94a7dbaa4133f1b6604f3d4.jpg' alt='linkedin' height='20'>](https://www.linkedin.com/in/izamachado) Linkedin: [linkedin.com/in/izamachado](https://www.linkedin.com/in/izamachado)
 
 <!--
 **machadinhacega/machadinhacega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
