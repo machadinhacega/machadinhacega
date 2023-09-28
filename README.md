@@ -13,8 +13,11 @@
 
 ✨ Outras habilidades: UX/UI Design
 
+____
 
-[<img src='https://i.pinimg.com/1200x/1f/fa/fe/1ffafe24a94a7dbaa4133f1b6604f3d4.jpg' alt='linkedin' height='20'>](https://www.linkedin.com/in/izamachado) Linkedin: [linkedin.com/in/izamachado](https://www.linkedin.com/in/izamachado)
+[<img src='https://cdn.icon-icons.com/icons2/3641/PNG/512/download_yellow_button_icon_227822.png' alt='download' height='20'>](https://github.com/machadinhacega/machadinhacega/blob/master/Curriculo-IzaMachado.pdf) [ Visualizar meu currículo em pdf](https://github.com/machadinhacega/machadinhacega/blob/master/Curriculo-IzaMachado.pdf)   
+
+[<img src='https://i.pinimg.com/1200x/1f/fa/fe/1ffafe24a94a7dbaa4133f1b6604f3d4.jpg' alt='linkedin' height='20'>](https://www.linkedin.com/in/izamachado) [linkedin.com/in/izamachado](https://www.linkedin.com/in/izamachado)
 
 <!--
 **machadinhacega/machadinhacega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
